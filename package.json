@@ -1,0 +1,6 @@
+{
+  "name": "ci-node-github-actions",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": { "test": "node --test", "lint": "node --check src/sum.js" }
+}
